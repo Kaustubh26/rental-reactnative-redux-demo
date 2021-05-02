@@ -1,0 +1,25 @@
+//Action types
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const OAUTHLOGIN_SUCCESS = "OAUTHLOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const VERIFY_SENT = "VERIFY_SENT";
+export const VERIFIY_FAIL = "VERIFIY_FAIL";
+export const GETAP_SUCCESS = "GETAP_SUCCESS";
+export const GETAP_FAIL = "GETAP_FAIL";
+export const GETUS_SUCCESS = "GETUS_SUCCESS";
+export const GETUS_FAIL = "GETUS_FAIL";
+export const ADDUS_SUCCESS = "ADDUS_SUCCESS";
+export const ADDUS_FAIL = "ADDUS_FAIL";
+export const UPDATEUS_SUCCESS = "UPDATEUS_SUCCESS";
+export const UPDATEUS_FAIL = "UPDATEUS_FAIL";
+export const DELETEUS_SUCCESS = "DELETEUS_SUCCESS";
+export const DELETEUS_FAIL = "DELETEUS_FAIL";
+export const ADDAP_SUCCESS = "ADDAP_SUCCESS";
+export const ADDAP_FAIL = "ADDAP_FAIL";
+export const UPDATEAP_SUCCESS = "UPDATEAP_SUCCESS";
+export const UPDATEAP_FAIL = "UPDATEAP_FAIL";
+export const DELETEAP_SUCCESS = "DELETEAP_SUCCESS";
+export const DELETEAP_FAIL = "DELETEAP_FAIL";
