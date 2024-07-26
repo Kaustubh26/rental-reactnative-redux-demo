@@ -88,7 +88,6 @@ passport.use('jwt', new JwtStrategy(options, function(jwt_payload, done) {
   })
 }));
 
-
 const port = config.port;
 app.listen(port, () => console.log(`Server up and running on port ${port} !`));
 
